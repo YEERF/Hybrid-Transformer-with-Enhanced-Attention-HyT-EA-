@@ -1,0 +1,4 @@
+train: D:/UAV_datas/ImageSet/train/images
+val: D:/UAV_datas/ImageSet/val/images
+nc: 1
+names: ['UAV']
